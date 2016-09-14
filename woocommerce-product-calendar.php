@@ -1,8 +1,9 @@
 <?php
 /**
  * Plugin Name: Woocommerce product date selector
- * Description: The plugin allows customers to select a future payment date for the woocommerce subscription order.
+ * Description: The plugin allows customers to select a future payment date and delivery date for the woocommerce subscription order.
  * Version:     1.0
+ * Author: 		A Ali
  */
 
 // If this file is called directly, abort.
