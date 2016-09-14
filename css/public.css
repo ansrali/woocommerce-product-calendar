@@ -1,0 +1,23 @@
+/* This stylesheet is used to style the public view of the plugin. */
+
+.ui-datepicker{
+	z-index: 2000 !important;
+}
+
+#deliveryDate-label {
+    background-color: #f8f8f8;
+    /*content:"\f073";*/
+    font-family: FontAwesome;
+    padding: 15px 15px 15.5px;
+    position: relative;
+    top: 0;
+    width: 45px;
+}
+
+#deliveryDate{
+	width: calc( 100% - 50px );
+}
+
+.first-payment-date{
+	display: none !important;
+}
